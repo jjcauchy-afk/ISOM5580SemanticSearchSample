@@ -2,8 +2,8 @@ import streamlit as st
 
 # Set page config
 st.set_page_config(
-    page_title="Semantic Search Examples",
-    icon = "📋",
+    page_title="Semantic Search App - Examples",
+    page_icon = "📋",
     layout="wide",
     initial_sidebar_state="collapsed"
 )
