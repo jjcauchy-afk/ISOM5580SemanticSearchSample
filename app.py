@@ -1,3 +1,5 @@
+import streamlit as st
+
 def main():
   st.title("🔍 Semantic Search App")
   st.subheader("Step 1. Prepare Data Source")
