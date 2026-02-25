@@ -3,13 +3,12 @@ import streamlit as st
 # Set page config
 st.set_page_config(
     page_title="Semantic Search Examples",
-    page_icon="🔍",
     layout="wide",
     initial_sidebar_state="collapsed"
 )
 
 # Main title
-st.title("Semantic Search App - Example")
+st.title("📋 Semantic Search App - Example")
 st.divider()
 
 # -------------------------- Example 1: Food & Cooking Deep Dive --------------------------
