@@ -3,6 +3,7 @@ import streamlit as st
 # Set page config
 st.set_page_config(
     page_title="Semantic Search Examples",
+    icon = "📋",
     layout="wide",
     initial_sidebar_state="collapsed"
 )
